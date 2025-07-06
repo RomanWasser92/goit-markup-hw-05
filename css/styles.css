@@ -488,7 +488,7 @@ input {
 
 .icons-list-footer .icons-list-item-link:focus,
 .icons-list-footer .icons-list-item-link:hover {
-    background-color: #31d0aa;
+    background-color: #404bbf;                           
 }
 
 .footer-subscribe {
@@ -553,7 +553,7 @@ input {
 }
         /*Footer end*/
 
-        
+
 .backdrope {
     position: fixed;
     top: 0;
